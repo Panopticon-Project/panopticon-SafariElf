@@ -9,3 +9,5 @@ https://therecord.media/antwerp-denies-negotiating-ransomware-payment-as-city-di
 https://www.crowdstrike.com/blog/owassrf-exploit-analysis-and-recommendations/
 
 https://www.fortinet.com/blog/threat-research/ransomware-roundup-play-ransomware
+
+https://www.securityweek.com/play-ransomware-group-used-new-exploitation-method-rackspace-attack
